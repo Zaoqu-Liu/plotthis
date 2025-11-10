@@ -7,8 +7,8 @@
 ```r
 install.packages("plotthis")
 # or to install the latest version:
-remotes::install_github("pwwang/plotthis")
-devtools::install_github("pwwang/plotthis")
+remotes::install_github("Zaoqu-Liu/plotthis")
+devtools::install_github("Zaoqu-Liu/plotthis")
 ```
 
 You can also install the package using `conda`:
